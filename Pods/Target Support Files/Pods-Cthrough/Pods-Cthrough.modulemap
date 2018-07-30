@@ -1,0 +1,6 @@
+framework module Pods_Cthrough {
+  umbrella header "Pods-Cthrough-umbrella.h"
+
+  export *
+  module * { export * }
+}

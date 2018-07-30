@@ -1,0 +1,418 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/AppDelegate.swift",
+      "line": 12,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/AppDelegate.swift",
+      "line": 14,
+      "symbol": "AppDelegate.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/AppDelegate.swift",
+      "line": 17,
+      "symbol": "AppDelegate.application(_:didFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/AppDelegate.swift",
+      "line": 24,
+      "symbol": "AppDelegate.applicationWillResignActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/AppDelegate.swift",
+      "line": 29,
+      "symbol": "AppDelegate.applicationDidEnterBackground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/AppDelegate.swift",
+      "line": 34,
+      "symbol": "AppDelegate.applicationWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/AppDelegate.swift",
+      "line": 38,
+      "symbol": "AppDelegate.applicationDidBecomeActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/AppDelegate.swift",
+      "line": 42,
+      "symbol": "AppDelegate.applicationWillTerminate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/MainController.swift",
+      "line": 12,
+      "symbol": "MainController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/MainController.swift",
+      "line": 14,
+      "symbol": "MainController.mapUIView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/MainController.swift",
+      "line": 16,
+      "symbol": "MainController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/OverLayView.swift",
+      "line": 11,
+      "symbol": "OverLayView",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/OverLayView.swift",
+      "line": 24,
+      "symbol": "OverLayView._arElementDraws",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/OverLayView.swift",
+      "line": 26,
+      "symbol": "OverLayView.arElementDraws",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/OverLayView.swift",
+      "line": 30,
+      "symbol": "OverLayView.draw(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/OverLayView.swift",
+      "line": 82,
+      "symbol": "OverLayView.clickListner()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/OverLayView.swift",
+      "line": 88,
+      "symbol": "OverLayView.onTouchEvent(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/OverLayView.swift",
+      "line": 92,
+      "symbol": "OverLayView.test()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ViewController.swift",
+      "line": 12,
+      "symbol": "captureSession",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ViewController.swift",
+      "line": 13,
+      "symbol": "videoPreviewLayer",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ViewController.swift",
+      "line": 44,
+      "symbol": "ViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ViewController.swift",
+      "line": 46,
+      "symbol": "ViewController.camView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ViewController.swift",
+      "line": 47,
+      "symbol": "ViewController.overLay",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ViewController.swift",
+      "line": 49,
+      "symbol": "ViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Draw/ARElementDraw.swift",
+      "line": 21,
+      "symbol": "ARElementDraw.onClickListener",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Draw/ARElementDraw.swift",
+      "line": 23,
+      "symbol": "ARElementDraw._properties",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Draw/ARElementDraw.swift",
+      "line": 25,
+      "symbol": "ARElementDraw.isListenerOn",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Draw/ARImageDraw.swift",
+      "line": 18,
+      "symbol": "ARImageDraw._arImage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Draw/ARLocationTagDraw.swift",
+      "line": 11,
+      "symbol": "ARLocationTagDraw",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Draw/ARLocationTagDraw.swift",
+      "line": 12,
+      "symbol": "ARLocationTagDraw._arLocationTag",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Draw/ARLocationTagDraw.swift",
+      "line": 14,
+      "symbol": "ARLocationTagDraw._x",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Draw/ARLocationTagDraw.swift",
+      "line": 16,
+      "symbol": "ARLocationTagDraw._y",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Draw/ARLocationTagDraw.swift",
+      "line": 18,
+      "symbol": "ARLocationTagDraw._height",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Draw/ARLocationTagDraw.swift",
+      "line": 20,
+      "symbol": "ARLocationTagDraw._width",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Draw/ARStringDraw.swift",
+      "line": 11,
+      "symbol": "ARStringDraw",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Draw/ARStringDraw.swift",
+      "line": 13,
+      "symbol": "ARStringDraw._arString",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Element/ARElement.swift",
+      "line": 20,
+      "symbol": "ARElement._arElementToDrawMap",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Element/ARElement.swift",
+      "line": 23,
+      "symbol": "ARElement._name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Element/ARImage.swift",
+      "line": 18,
+      "symbol": "SourceTypeEnum.LOCAL",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Element/ARImage.swift",
+      "line": 19,
+      "symbol": "SourceTypeEnum.INTERNET",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Element/ARImage.swift",
+      "line": 28,
+      "symbol": "ARImage._path",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Element/ARImage.swift",
+      "line": 30,
+      "symbol": "ARImage._sourceType",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Element/ARLocationTag.swift",
+      "line": 17,
+      "symbol": "ARLocationTag._backgroundImage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Element/ARLocationTag.swift",
+      "line": 19,
+      "symbol": "ARLocationTag._title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Element/ARLocationTag.swift",
+      "line": 21,
+      "symbol": "ARLocationTag._description",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Element/ARString.swift",
+      "line": 12,
+      "symbol": "ARString",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Element/ARString.swift",
+      "line": 13,
+      "symbol": "ARString._value",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Eventlistener/OnClickListener.swift",
+      "line": 11,
+      "symbol": "OnClickListener",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Eventlistener/OnClickListener.swift",
+      "line": 12,
+      "symbol": "OnClickListener.onClick(parameter:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Exception/ResourceNotFoundError.swift",
+      "line": 16,
+      "symbol": "ResourceNotFoundError.ResourceNotFoundException",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Properties/ARProperties.swift",
+      "line": 11,
+      "symbol": "ARProperties",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Properties/ARProperties.swift",
+      "line": 20,
+      "symbol": "ARProperties._properties",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Properties/ARProperties.swift",
+      "line": 64,
+      "symbol": "ARProperties.getKeySet()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Properties/ARPropertiesParser.swift",
+      "line": 17,
+      "symbol": "Orientation.Horizontal",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Properties/ARPropertiesParser.swift",
+      "line": 18,
+      "symbol": "Orientation.Vertical",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Properties/ARPropertiesParser.swift",
+      "line": 22,
+      "symbol": "ARPropertiesParser",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Properties/ARPropertiesParser.swift",
+      "line": 23,
+      "symbol": "ARPropertiesParser.screenHeight",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Properties/ARPropertiesParser.swift",
+      "line": 25,
+      "symbol": "ARPropertiesParser.screenWidth",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nischal/Documents/GitHub/Cthrough/iOS native/Cthrough/ios/com.cthrough.ios/AR/Properties/ARPropertiesParser.swift",
+      "line": 27,
+      "symbol": "ARPropertiesParser.SCREEN_RESOLUTION_RATIO",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/nischal/Documents/GitHub/Cthrough/iOS native"
+}
